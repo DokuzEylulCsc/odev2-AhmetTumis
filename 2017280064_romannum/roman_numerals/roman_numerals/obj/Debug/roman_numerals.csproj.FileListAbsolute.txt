@@ -1,0 +1,12 @@
+C:\Users\Ahmet\Desktop\bbg2odev\roman_numerals\roman_numerals\bin\Debug\roman_numerals.exe.config
+C:\Users\Ahmet\Desktop\bbg2odev\roman_numerals\roman_numerals\bin\Debug\roman_numerals.exe
+C:\Users\Ahmet\Desktop\bbg2odev\roman_numerals\roman_numerals\bin\Debug\roman_numerals.pdb
+C:\Users\Ahmet\Desktop\bbg2odev\roman_numerals\roman_numerals\obj\Debug\roman_numerals.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\bbg2odev\roman_numerals\roman_numerals\obj\Debug\roman_numerals.exe
+C:\Users\Ahmet\Desktop\bbg2odev\roman_numerals\roman_numerals\obj\Debug\roman_numerals.pdb
+C:\Users\Ahmet\Desktop\2017280064_bbg2\roman_numerals\roman_numerals\bin\Debug\roman_numerals.exe.config
+C:\Users\Ahmet\Desktop\2017280064_bbg2\roman_numerals\roman_numerals\bin\Debug\roman_numerals.exe
+C:\Users\Ahmet\Desktop\2017280064_bbg2\roman_numerals\roman_numerals\bin\Debug\roman_numerals.pdb
+C:\Users\Ahmet\Desktop\2017280064_bbg2\roman_numerals\roman_numerals\obj\Debug\roman_numerals.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\2017280064_bbg2\roman_numerals\roman_numerals\obj\Debug\roman_numerals.exe
+C:\Users\Ahmet\Desktop\2017280064_bbg2\roman_numerals\roman_numerals\obj\Debug\roman_numerals.pdb
