@@ -1,4 +1,4 @@
-#Ödev dosyası çalışma klasörünün içinde cs dosyası olarak mevcuttur
+#Ödev dosyası çalışma klasörünün içinde program.cs dosyası olarak mevcuttur
 
 Ahmet TÜMİŞ 2017280064 
 Teslim Tarihi 12/2/2019 8:53 PM
